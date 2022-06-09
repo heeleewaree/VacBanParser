@@ -1,0 +1,10 @@
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\bin\Debug\VacBanParser.exe.config
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\bin\Debug\VacBanParser.exe
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\bin\Debug\VacBanParser.pdb
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\obj\Debug\VacBanParser.csproj.AssemblyReference.cache
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\obj\Debug\VacBanParser.Properties.Resources.resources
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\obj\Debug\VacBanParser.csproj.GenerateResource.cache
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\obj\Debug\VacBanParser.csproj.CoreCompileInputs.cache
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\obj\Debug\VacBanParser.exe
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\obj\Debug\VacBanParser.pdb
+C:\Users\limon\source\repos\VacBanParser\VacBanParser\obj\Debug\VacBanParser.General.resources
