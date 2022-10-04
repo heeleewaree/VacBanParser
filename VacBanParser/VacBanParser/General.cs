@@ -287,7 +287,7 @@ namespace VacBanParser
             {
                 StreamReader file = new StreamReader(@"C:\VacBan Parser\MatrixComment.cfg");
                 matrixComment[0] = file.ReadLine();
-                while (matrixComment[i - 1] != "")
+                while (i <= totalPlayers)
                 {
                     matrixComment[i] = file.ReadLine();
                     dgvMatrix.Rows[i - 1].Cells[3].Value = matrixComment[i - 1];
